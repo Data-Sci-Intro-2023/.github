@@ -19,11 +19,14 @@ The broad goal of this course is to make your graduate or undergraduate research
 
 This class is very fun to teach, but the hardest part is that students come to it with wildly different backgrounds. We are hoping that we can level the playing field through our teaching, making it so that everyone leaves the class with significant skills in R. However, we know that many of you have zero experience coding in R and others have many years of experience. This class will move extremly quicly and if you have no or little experience in R, we strongly encourage you to spend some time reviewing the material below which we have ranked by priority. If you can't review this material or don't already have a general understanding of some of it, this course could move too quickly to stay afloat. 
 
-### Required to do before the class starts
+### Required to do before the class starts if you don't have much R background
 
 
 - [RStudio Primers](https://posit.cloud/learn/primers) - Interactive
 online coding. Really excellent base material and the most useful way to prepare for the course. 
+
+  - Please complete lessons 1-4 (Basics, Work with Data, Visualize Data, Tidy Your Data)
+  - Lessons 5-7 are extra or can be resources as you learn the same ideas in class. 
 
 
 ### Additional introductory resources
