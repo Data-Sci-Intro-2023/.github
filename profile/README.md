@@ -26,8 +26,8 @@ This class is very fun to teach, but the hardest part is that students come to i
 - [RStudio Materials](https://education.rstudio.com/learn/beginner/) - A series of
 videos, books, and more to get you started in R
 
-- [RStudio Primers](https://education.rstudio.com/learn/beginner/) - Interactive
-online coding. Really excellent if you can make it through all of the primers. 
+- [RStudio Primers](https://posit.cloud/learn/primers) - Interactive
+online coding. Really excellent base material and the most useful way to prepare for the course. 
 
 
 ### Tidyverse and more Intro, helpful to review, but we will cover some of this. 
