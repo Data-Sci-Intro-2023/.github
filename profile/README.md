@@ -19,18 +19,21 @@ The broad goal of this course is to make your graduate or undergraduate research
 
 This class is very fun to teach, but the hardest part is that students come to it with wildly different backgrounds. We are hoping that we can level the playing field through our teaching, making it so that everyone leaves the class with significant skills in R. However, we know that many of you have zero experience coding in R and others have many years of experience. This class will move extremly quicly and if you have no or little experience in R, we strongly encourage you to spend some time reviewing the material below which we have ranked by priority. If you can't review this material or don't already have a general understanding of some of it, this course could move too quickly to stay afloat. 
 
-### Required to review before the course starts
+### Required to do before the class starts
+
+
+- [RStudio Primers](https://posit.cloud/learn/primers) - Interactive
+online coding. Really excellent base material and the most useful way to prepare for the course. 
+
+
+### Additional introductory resources
 
 - [Stat 158](https://csu-r.github.io/Module1/) - Vectors, data frames, installing R, etc...
 
 - [RStudio Materials](https://education.rstudio.com/learn/beginner/) - A series of
 videos, books, and more to get you started in R
 
-- [RStudio Primers](https://posit.cloud/learn/primers) - Interactive
-online coding. Really excellent base material and the most useful way to prepare for the course. 
-
-
-### Tidyverse and more Intro, helpful to review, but we will cover some of this. 
+### Tidyverse Introduction
 
 - [R for Data Science](https://r4ds.had.co.nz/introduction.html) - Covers all of
 the basic intro material, from a tidyverse perspective. As discussed, this is 
