@@ -17,11 +17,15 @@ The broad goal of this course is to make your graduate or undergraduate research
 
 ## Preparation
 
-This class is very fun to teach, but the hardest part is that students come to it with wildly different backgrounds. We are hoping that we can level the playing field through our teaching, making it so that everyone leaves the class with significant skills in R. However, we know that many of you have zero experience coding in R and others have many years of experience. This class will move extremly quicly and if you have no or little experience in R, we strongly encourage you to spend some time reviewing the material below which we have ranked by priority. If you can't review this material or don't already have a general understanding of some of it, this course could move too quickly to stay afloat. 
+This class is very fun to teach, but the hardest part is that students come to it with wildly different backgrounds. We are hoping that we can level the playing field through our teaching, making it so that everyone leaves the class with significant skills in R. However, we know that many of you have zero experience coding in R and others have many years of experience. This class will move extremely quickly and if you have little to no experience in R, we strongly encourage you to spend some time reviewing the additional resources listed below. If you can't review this material or don't already have a general understanding of some of it, this course could move too quickly to stay afloat. 
 
-### Required to do before the class starts if you don't have much R background
+### REQUIRED to do before the class starts
 
+#### Set up Instructions and Tutorials
+- You **must** install all necesarry software to the computer you will be using in class before the course begins. From the online book [Happy Git and GitHub for the useR](https://happygitwithr.com/github-acct.html), complete **all** of Lessons 4 - 12 (skipping lesson 10, use HTTPS tokens and not SSH), and lessons 13 and/or 14 for troubleshooting if you have any issues.
+- *Even if you already have R/RStudio installed, please make sure to install the newest versions. At MINIMUM you must have R version 4.1 or greater*
 
+#### R Prep Work
 - [RStudio Primers](https://posit.cloud/learn/primers) - Interactive
 online coding. Really excellent base material and the most useful way to prepare for the course. 
 
@@ -36,7 +40,7 @@ online coding. Really excellent base material and the most useful way to prepare
 - [RStudio Materials](https://education.rstudio.com/learn/beginner/) - A series of
 videos, books, and more to get you started in R
 
-### Tidyverse Introduction
+#### Tidyverse Introduction
 
 - [R for Data Science](https://r4ds.had.co.nz/introduction.html) - Covers all of
 the basic intro material, from a tidyverse perspective. As discussed, this is 
@@ -48,7 +52,7 @@ of as a reference!
 intro to the tidyverse
 
 
-### Additional Core Introductory Material
+#### Additional Core Introductory Material
 
 - [Happy Git With R](https://happygitwithr.com/) - Phenomenal resource for learning
 git, GitHub, and RStudio integration. As discussed, using Git/GitHub/R together
