@@ -1,6 +1,8 @@
 ## Welcome to Environmental Data Science - An Introduction (ESS 523A)!
 
-This is a class at Colorado State University taught by Matt Ross, Caitlin Mothes, and Katie Willi. 
+This is a class at Colorado State University taught by Matt Ross, Caitlin Mothes, and Katie Willi.
+
+M-W-F 10:00am-11:50am, WCNR Room 243
 
 ## Goals
 
