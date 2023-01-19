@@ -2,7 +2,7 @@
 
 This is a class at Colorado State University taught by Matt Ross, Caitlin Mothes, and Katie Willi.
 
-M-W-F 10:00am-11:50am, WCNR Room 243
+M-W-F 10:00am-11:50am, WCNR Building Room 243
 
 ## Goals
 
